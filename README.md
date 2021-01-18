@@ -36,4 +36,5 @@ channelID & channelStatusID do not have to the be the same.
 
 `Final Products`
 
-![How it looks!](https://imgur.com/a/8vWK4Sx)
+![How it looks!](https://i.imgur.com/EkkS760.png)
+![How it looks! (2)](https://i.imgur.com/5mXPZRG.png)
