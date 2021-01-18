@@ -25,7 +25,7 @@ Once the token is entered, the bot can be launched by opening the `startBot.bat`
 
 This is an example of how a completed `settings.json` file should look like:
 
-![Example Settings.json](https://pasteboard.co/JKeBMyM.png)
+![Example Settings](https://pasteboard.co/JKeBMyM.png)
 
 The last two options are for if you want a channel name to be updated with the player count.
 
