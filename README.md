@@ -25,23 +25,15 @@ Once the token is entered, the bot can be launched by opening the `startBot.bat`
 
 This is an example of how a completed `settings.json` file should look like:
 
-{
-    "ip": "45.85.194.174",
-    "port": "30120",
-    "serverID": "747117497060163666",
-    "channelID": "799629722836402186",
-    "messageID": "799645249718321212",
-    "refreshTime": "5", 
-    "color": "#035efc",
-    "errorColor": "#035efc",
-    "embedTitle": "GravHub",
-    "embedErrorTitle": "GravHub",
-    "enableChannelStatus": "Yes",
-    "channelStatusID": "782616107584323584"
-}
+![Example Settings.json](https://imgur.com/a/YZjrWFF)
 
 The last two options are for if you want a channel name to be updated with the player count.
 
 If you set the enableChannelStatus to 'No.', then it will disable this.
 
 channelID & channelStatusID do not have to the be the same.
+
+
+`Final Products`
+
+![How it looks!](https://imgur.com/a/8vWK4Sx)
